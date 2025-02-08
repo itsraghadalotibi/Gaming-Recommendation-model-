@@ -1,7 +1,7 @@
 # 🎮 Game Recommendation System  
 
 ## 🔍 Project Overview  
-This project develops a recommendation system where users upload a game or its poster, and the system suggests similar games based on features like genre, platform, and rating.  
+This project develops a recommendation system where users upload a game or its poster, and the system suggests similar games based on features like genre, platform, and description.  
 
 ## 📊 Dataset  
 We are using the [Games After 1 Year](https://huggingface.co/datasets/wiliamlee/games_after_1_years) dataset from Hugging Face to train our model.  
