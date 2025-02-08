@@ -13,5 +13,5 @@ Video game recommendation is a growing field that helps players discover games t
 - Albatool Alkahlan  
 - Raghad Alotaibi  
 - Aljawharah Alotaibi  
-- Shadn Aljulahi  
+- Shadan Aljulihi  
 - Sarah Alsahli  
