@@ -1,4 +1,4 @@
-# 🎮 Game Recommendation System  
+# 🎮 LA3EEb-Game Recommendation System  
 
 ## 🔍 Project Overview  
 This project develops a recommendation system where users upload a game or its poster, and the system suggests similar games based on features like genre, platform, and description.  
